@@ -1,2 +1,2 @@
-# MountBlue-Coding-Challenge
-MountBlue Coding Challenge
+# MountBlue-Coding-Challenges
+MountBlue Coding Challenges
