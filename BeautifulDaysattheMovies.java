@@ -21,7 +21,6 @@ public static int reverse(int n)
                 cnt++;
             }
             
-            
         }
         return cnt;
     }
