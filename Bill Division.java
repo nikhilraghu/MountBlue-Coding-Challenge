@@ -6,6 +6,7 @@ public static void bonAppetit(List<Integer> bill, int k, int b) {
             if(i!=k)
                 sum+=bill.get(i);
         }
+    
         sum/=2;
         int dif=b-sum;
         if(dif==0)
